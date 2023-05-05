@@ -1,11 +1,14 @@
 <!DOCTYPE html>
+
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>❤🥂Federal</title>
 </head>
+
 <body>
     <img src="profile.png" alt="Picture of Federal Sedinam">
     <h1>Federal Sedinam</h1>
@@ -28,15 +31,15 @@
 
     <h3>Education</h3>
     <ul>
-        <li>Kwame Nkrumah University Of Science And Technology</li>
+        <li>Kwame Nkrumah University Of Science And Technology- <a href="https://www.knust.edu.gh/">KNUST</a></li>
         <li>Sogakofe Senior High School</li>
         <li>Little Stars Academy</li>
     </ul>
-    <h3>Hobbies</h3>
-    <ol>
-        <li>Coding</li>
-        <li>Typing</li>
-        <li>Field Works</li>
-    </ol>
+
+    <a href="hobbies.html">Hobbies</a>
+    <br>
+    <a href="contact details.html">Contact Details</a>
+
 </body>
+
 </html>
