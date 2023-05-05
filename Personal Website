@@ -7,24 +7,36 @@
     <title>❤🥂Federal</title>
 </head>
 <body>
+    <img src="profile.png" alt="Picture of Federal Sedinam">
     <h1>Federal Sedinam</h1>
 
-    <p><em>Computer Engineering Student</em></p>
+    <p><em> <strong> Computer Engineering Student</strong></em></p>
 
-    <p>I am a techie who wants to become one of the top females in tech. 
-    Current Computer Engineering student with excellent communication skills who likes to find innovative ideas to solve problems using technology. 
-    I love to explore and learn new things. 
-    I am able to work in teams and share ideas. 
-    Looking forward to joining the workforce to gain real-world experience. 
-    Dependable and reliable, ready to learn and grow. 
-    I get attracted to anything technology.
-    Through philanthropy, I would like to help others achieve their dreams. 
-    I believe there is a bright future with hard work and God above all. 
-    I believe that if work must be done, it must be done well.
-    BORN TO WIN!!!</p>
+    <p>I am a techie who wants to become one of the top females in tech. <br> 
+    Current Computer Engineering student with excellent communication skills who likes to find innovative ideas to solve problems using technology. <br>
+    I love to explore and learn new things. <br>
+    I am able to work in teams and share ideas. <br>
+    Looking forward to joining the workforce to gain real-world experience. <br>
+    Dependable and reliable, ready to learn and grow. <br>
+    I get attracted to anything technology. <br>
+    Through philanthropy, I would like to help others achieve their dreams. <br>
+    I believe there is a bright future with hard work and God above all. <br>
+    I believe that if work must be done, it must be done well. <br>
+    BORN TO WIN!!!</p> 
 
     <hr size = "3" noshade>
 
     <h3>Education</h3>
+    <ul>
+        <li>Kwame Nkrumah University Of Science And Technology</li>
+        <li>Sogakofe Senior High School</li>
+        <li>Little Stars Academy</li>
+    </ul>
+    <h3>Hobbies</h3>
+    <ol>
+        <li>Coding</li>
+        <li>Typing</li>
+        <li>Field Works</li>
+    </ol>
 </body>
 </html>
